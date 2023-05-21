@@ -83,10 +83,11 @@ LCD:
 
 LCD stands for Liquid Crystal Display. In the context of a delta 3D printer assembly, an LCD is a display screen integrated into the printer's control interface. It provides visual feedback and allows the user to interact with the printer by displaying menu options, settings, print progress, and other relevant information.
 ## Output:
+
 ![Uploading image.png…]()
 
-### Name:
-### Register Number:
+### Name:Adhithya MR 
+### Register Number:212222240002
 
 ## Result: 
 ### Thus the simulation on construction of delta 3D printer is completed & movement of axis along X, Y, & Z has been studied.
